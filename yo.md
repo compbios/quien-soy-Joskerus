@@ -1,4 +1,4 @@
-Hola soy **Fabián Gil**
+Hola soy **José Velasco**
 
 
 
@@ -6,5 +6,5 @@ Hola soy **Fabián Gil**
 
 
 
-Soy *estadístico* y Bioestadístico
+Soy *Nutricionista* y estudio una maestría
 
