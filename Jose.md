@@ -18,7 +18,7 @@ _____________________________________________________________________________
 | ------ | ------ |
 | 1 | Jugar video juegos  |
 | 2 | Comer |
-| 3 | Jugar juegos de mesa |
+| 3 | Los juegos de mesa |
 | 4 | Caminar |
 | 5 | Nadar |
 
